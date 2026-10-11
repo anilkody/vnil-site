@@ -1,0 +1,4 @@
+/hello /talk 301
+/home / 302
+/case-study /work 301
+/case-study/:slug /work/:slug 301
